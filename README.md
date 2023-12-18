@@ -8,7 +8,7 @@ This repository contains code for a simple image classification task using Suppo
 - The `model.sav` file stores the trained SVM model using the RBF kernel.
 
 ## Usage
-
+    - Download the dataset from https://www.kaggle.com/c/dogs-vs-cats/data
 1. **Data Preparation:**
     - The training images are in the `train` folder, and test images are in the `test1` folder.
     - Images are preprocessed and saved as pickles: `train_data.pickle` and `test_data.pickle`.
